@@ -1,3 +1,4 @@
+# cd to this file and run the command python joystick_relay.py before opening unity game and running the game
 import serial
 import time
 
