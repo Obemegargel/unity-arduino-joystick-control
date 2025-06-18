@@ -1,7 +1,7 @@
 # Unit + Arduino Joystick Control
 
 This project uses an Ardion kit joystick to control a cube in the unity game engine.
-
+[![Watch Demo](https://youtube.com/shorts/UUaW9zPB_Sk?feature=share.jpg)](https://youtube.com/shorts/UUaW9zPB_Sk?feature=share)
 
 ## How to run
 
